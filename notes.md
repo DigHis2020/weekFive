@@ -11,8 +11,10 @@ Double check map locations before pinning them, some of them aren't super accura
 Inkscape
 
 Mac controls seem to be a bit shaky. 
-edit text boxes once when you make them, hard to fix them after that 
+edit text boxes once when you make them, hard to fix them after that. 
 stretching textboxes changes letter size 
+
+https://inkscape.org/learn/tutorials/ this leads to multiple in date tutorials 
 
 
 
